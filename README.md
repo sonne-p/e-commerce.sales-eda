@@ -1,16 +1,17 @@
-# e-commerce.sales-eda
-Aim: Exploratory Data Analysis on e-commerce sales data. An in-depth look at the profitability of e-commerce sales in Amazon in the month of June. Using this dataset, one can measure the performance of their campaigns more accurately and efficiently.
+# Exploratory Data Analysis on E-commerce Sales data from Amazon
+# Project Objective: 
+Exploratory Data Analysis on e-commerce sales data. An in-depth look at the profitability of e-commerce sales in Amazon in the month of June. Using this dataset, one can measure the performance of their campaigns more accurately and efficiently.
 
 Steps include:
--importing the data
--understanding the data
--standardising the column names
--standardising data
--handling missing data
--deleting duplicate values
--creating 10 visualisations using the data to derive the insights mentioned below.
+- importing the data
+- understanding the data
+- standardising the column names
+- standardising data
+- handling missing data
+- deleting duplicate values
+- creating 10 visualisations using the data to derive the insights mentioned below.
 
-Insights:
+# Inferences from the visualisations:
 
 Sales insights: The sales tends to average at around Rs.818000, however it must be noted that that the sales takes significant dips on Fridays but picks up over the weekends. Sales are higher when promotion offers are available as expected.
 
