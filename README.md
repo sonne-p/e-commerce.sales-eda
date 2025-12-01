@@ -9,7 +9,7 @@ Steps include:
 - standardising data
 - handling missing data
 - deleting duplicate values
-- creating 10 visualisations using the data to derive the insights mentioned below.
+- conduct univariate, bivariate, multivariate analysis using the data visualisations to derive the insights mentioned below.
 
 # Inferences from the visualisations:
 
